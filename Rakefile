@@ -1,7 +1,7 @@
 # (c) 2008 Phil Hofmann <phil@versfabrik.de>
 
 require 'rubygems'
-Gem::manage_gems
+# Gem::manage_gems
 
 require 'rake/gempackagetask'
 
